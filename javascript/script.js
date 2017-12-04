@@ -1,4 +1,4 @@
-var showTitle = ['Orphan Black', 'Game of Thrones', 'Sherlock bbc', 'Mr. Robot', 'The Walking Dead', 'Daredevil', 'Unbreakable Kimmy Schmidt', 'Silicon Valley', 'The Flash', 'Supergirl', 'Louie', 'iZombie', 'Homeland', 'Arrow', 'Veep', 'Parks and Recreation', 'Bobs Burger'];
+var showTitle = ['Vikings', 'Game of Thrones', 'Sherlock bbc', 'Mr. Robot', 'The Walking Dead', 'Daredevil', 'Family Guy', 'Silicon Valley', 'The Flash', 'Rick and Morty', 'Louie', 'iZombie', 'Homeland', 'Arrow', 'Veep', 'Parks and Recreation', 'Bobs Burger'];
 var currentGif; var pausedGif; var animatedGif; var stillGif;
 
 //creates buttons
